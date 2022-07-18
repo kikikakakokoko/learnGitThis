@@ -17,6 +17,7 @@ class ViewController: UIViewController {
 
     func printSth(){
         print("heyheyhey, fuck off dude!!")
+        print("you are my girl")
     }
 }
 
