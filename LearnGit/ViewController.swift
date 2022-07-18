@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     }
 
     func printSth(){
-        print("heyheyhey")
+        print("heyheyhey, fuck off dude!!")
     }
 }
 
