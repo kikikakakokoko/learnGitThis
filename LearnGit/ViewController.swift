@@ -19,5 +19,8 @@ class ViewController: UIViewController {
         print("heyheyhey, fuck off dude!!")
         print("you are my girl")
     }
+    func branch(){
+        print("this is branch")
+    }
 }
 
