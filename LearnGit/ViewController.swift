@@ -22,6 +22,7 @@ class ViewController: UIViewController {
     func branch(){
         print("this is branch")
         print("this is from internet")
+        print("this is from kokoko")
     }
 }
 
